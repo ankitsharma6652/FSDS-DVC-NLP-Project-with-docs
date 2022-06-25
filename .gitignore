@@ -143,3 +143,4 @@ configs/secrets.yaml
 
 artifacts/prepared/test.tsv
 artifacts/prepared/train.tsv
+logs/running_logs.log
